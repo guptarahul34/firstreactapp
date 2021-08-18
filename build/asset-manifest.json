@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/firstreactapp/static/css/main.acce2f16.chunk.css",
+    "main.js": "/firstreactapp/static/js/main.35aef91e.chunk.js",
+    "main.js.map": "/firstreactapp/static/js/main.35aef91e.chunk.js.map",
+    "runtime-main.js": "/firstreactapp/static/js/runtime-main.5378e24d.js",
+    "runtime-main.js.map": "/firstreactapp/static/js/runtime-main.5378e24d.js.map",
+    "static/css/2.4be38407.chunk.css": "/firstreactapp/static/css/2.4be38407.chunk.css",
+    "static/js/2.026dcd0c.chunk.js": "/firstreactapp/static/js/2.026dcd0c.chunk.js",
+    "static/js/2.026dcd0c.chunk.js.map": "/firstreactapp/static/js/2.026dcd0c.chunk.js.map",
+    "index.html": "/firstreactapp/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/firstreactapp/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.acce2f16.chunk.css.map": "/firstreactapp/static/css/main.acce2f16.chunk.css.map",
+    "static/js/2.026dcd0c.chunk.js.LICENSE.txt": "/firstreactapp/static/js/2.026dcd0c.chunk.js.LICENSE.txt",
+    "static/media/appdevelopment.8703bf47.jpg": "/firstreactapp/static/media/appdevelopment.8703bf47.jpg",
+    "static/media/cloud.ff8bf48a.png": "/firstreactapp/static/media/cloud.ff8bf48a.png",
+    "static/media/first.eadc4e62.png": "/firstreactapp/static/media/first.eadc4e62.png",
+    "static/media/marketting.cfa2c3fb.jpg": "/firstreactapp/static/media/marketting.cfa2c3fb.jpg",
+    "static/media/webdeveloper.2c3599ea.jpg": "/firstreactapp/static/media/webdeveloper.2c3599ea.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5378e24d.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.026dcd0c.chunk.js",
+    "static/css/main.acce2f16.chunk.css",
+    "static/js/main.35aef91e.chunk.js"
+  ]
+}
